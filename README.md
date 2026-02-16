@@ -1,4 +1,3 @@
-# MIPS-Bin-Packing-FF-BF
 # Bin Packing Solver — MIPS Assembly
 
 MIPS assembly implementation of the bin packing problem using First Fit (FF) and Best Fit (BF) heuristics. Reads item sizes from a file, runs the chosen heuristic, and writes the solution to an output file.
