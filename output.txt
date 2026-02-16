@@ -1,0 +1,16 @@
+
+------ First Fit Solution ------
+
+Number of bins: 4
+  Bin 0:
+    - 0.4
+    - 0.5
+    - 0.1
+  Bin 1:
+    - 0.5
+    - 0.2
+  Bin 2:
+    - 0.6
+    - 0.3
+  Bin 3:
+    - 0.4
