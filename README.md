@@ -92,5 +92,5 @@ Bins have capacity 1.0. Item sizes must be in [0, 1]. The program supports up to
 
 ## Report / specification
 
-Full project description, requirements, and grading criteria:  
+Full project description:  
 **`ENCS4370_Project+1_+Spring_2024_2025.pdf`**
